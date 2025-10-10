@@ -1,0 +1,12 @@
+10
+20
+__
+40
+50
+to value ko put karne ke liye
+linear
+1- preserve dat intergrity
+2- smooth trends
+3- avoid data loss
+
+interpolate()
